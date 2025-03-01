@@ -17,8 +17,7 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Learn to **install** and **run Ollama** with the **Phi-4 model**.
 - Enable **code execution** and **file handling** for **on-device AI**.
 - Conduct **simple and advanced** AI-assisted workflows.
-
-📄 **File:** `ollama_phi4_exercise_final_v6.md`
+**![Start Here for this exercise](/Ollama.md)**
 
 ---
 
@@ -27,7 +26,7 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Upload and analyze **documents and files**.
 - Enable **code execution** for financial and clinical data.
 
-📄 **File:** `openai_assistants_exercise_final.md`
+**![Start Here for this exercise](/assistants.md)**
 
 ---
 
@@ -36,11 +35,13 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Use the **Assistants API** to analyze data **using code execution**.
 - Generate **visualizations** and **advanced insights**.
 
-📄 **File:** `openai_assistants_multi_dataset_exercise.md`  
-📂 **Datasets:**  
-- **[Clinical Dataset](sandbox:/mnt/data/clinical_dataset.csv)**
-- **[Financial Dataset](sandbox:/mnt/data/financial_dataset.csv)**
-- **[Higher Education Dataset](sandbox:/mnt/data/higher_education_dataset.csv)**
+**![Start Here for this exercise](/data_analysis.md)**
+**Datasets:**  
+You can use the below sample datasets or create your own
+- **![Clinical Dataset](/data/clinical_dataset.csv)**
+- **![Financial Dataset](/data/financial_dataset.csv)**
+- **![Higher Education Dataset](/data/higher_education_dataset.csv)**
+- **![Create your own domain specific dataset](/generating_datasets.md)**
 
 ---
 
@@ -49,7 +50,8 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Generate **clinical, financial, and educational datasets** dynamically.
 - Use **AI-assisted data generation** for research, modeling, or prototyping.
 
-📄 **File:** `openai_playground_generate_datasets.md`
+**![Start Here for this exercise](/generating_datasets.md)**
+
 
 ---
 
@@ -58,7 +60,8 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Summarize, extract insights, and generate audio overviews.
 - Collaborate with colleagues to enhance decision-making.
 
-📄 **File:** `notebooklm_exercise.md`
+**![Start Here for this exercise](/notebookllm.md)**
+
 
 ---
 

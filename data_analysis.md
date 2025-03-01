@@ -9,9 +9,9 @@ By completing this exercise, you will:
 ## Prerequisites
 - **OpenAI Account**: Ensure you have access to OpenAI’s Playground.
 - **Datasets**: Download the provided datasets:
-  - [Clinical Dataset](sandbox:/mnt/data/clinical_dataset.csv)
-  - [Financial Dataset](sandbox:/mnt/data/financial_dataset.csv)
-  - [Higher Education Dataset](sandbox:/mnt/data/higher_education_dataset.csv)
+  - [Clinical Dataset](/data/clinical_dataset.csv)
+  - [Financial Dataset](/data/financial_dataset.csv)
+  - [Higher Education Dataset](/data/higher_education_dataset.csv)
 - **Basic Python Knowledge** (Optional but helpful for interpreting results).
 
 ---
