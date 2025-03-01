@@ -17,7 +17,7 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Learn to **install** and **run Ollama** with the **Phi-4 model**.
 - Enable **code execution** and **file handling** for **on-device AI**.
 - Conduct **simple and advanced** AI-assisted workflows.
-**![Start Here for this exercise](/Ollama.md)**
+**[Start Here for this exercise](/Ollama.md)**
 
 ---
 
@@ -26,7 +26,7 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Upload and analyze **documents and files**.
 - Enable **code execution** for financial and clinical data.
 
-**![Start Here for this exercise](/assistants.md)**
+**[Start Here for this exercise](/assistants.md)**
 
 ---
 
@@ -35,13 +35,13 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Use the **Assistants API** to analyze data **using code execution**.
 - Generate **visualizations** and **advanced insights**.
 
-**![Start Here for this exercise](/data_analysis.md)**
+**[Start Here for this exercise](/data_analysis.md)**
 **Datasets:**  
 You can use the below sample datasets or create your own
-- **![Clinical Dataset](/data/clinical_dataset.csv)**
-- **![Financial Dataset](/data/financial_dataset.csv)**
-- **![Higher Education Dataset](/data/higher_education_dataset.csv)**
-- **![Create your own domain specific dataset](/generating_datasets.md)**
+- **[Clinical Dataset](/data/clinical_dataset.csv)**
+- **[Financial Dataset](/data/financial_dataset.csv)**
+- **[Higher Education Dataset](/data/higher_education_dataset.csv)**
+- **[Create your own domain specific dataset](/generating_datasets.md)**
 
 ---
 
@@ -50,7 +50,7 @@ You can use the below sample datasets or create your own
 - Generate **clinical, financial, and educational datasets** dynamically.
 - Use **AI-assisted data generation** for research, modeling, or prototyping.
 
-**![Start Here for this exercise](/generating_datasets.md)**
+**[Start Here for this exercise](/generating_datasets.md)**
 
 
 ---
@@ -60,7 +60,7 @@ You can use the below sample datasets or create your own
 - Summarize, extract insights, and generate audio overviews.
 - Collaborate with colleagues to enhance decision-making.
 
-**![Start Here for this exercise](/notebookllm.md)**
+**[Start Here for this exercise](/notebookllm.md)**
 
 
 ---
