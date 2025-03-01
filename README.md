@@ -17,6 +17,7 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Learn to **install** and **run Ollama** with the **Phi-4 model**.
 - Enable **code execution** and **file handling** for **on-device AI**.
 - Conduct **simple and advanced** AI-assisted workflows.
+
 **[Start Here for this exercise](/Ollama.md)**
 
 ---
@@ -36,7 +37,9 @@ Each exercise will guide you through the **setup, integration, and usage** of AI
 - Generate **visualizations** and **advanced insights**.
 
 **[Start Here for this exercise](/data_analysis.md)**
+
 **Datasets:**  
+
 You can use the below sample datasets or create your own
 - **[Clinical Dataset](/data/clinical_dataset.csv)**
 - **[Financial Dataset](/data/financial_dataset.csv)**
