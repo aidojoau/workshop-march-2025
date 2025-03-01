@@ -1,0 +1,101 @@
+Student ID,Age,GPA,SAT Score,Major,Scholarship Awarded
+1,28,3.8,904,Biology,Yes
+2,23,2.26,1137,Engineering,No
+3,24,3.7,1333,Computer Science,Yes
+4,27,2.09,1169,Computer Science,No
+5,22,3.48,1112,Business,No
+6,26,2.62,950,Economics,No
+7,20,3.2,1230,Engineering,No
+8,18,2.69,1466,Psychology,No
+9,20,2.1,1070,Business,No
+10,21,3.77,1220,Economics,Yes
+11,25,3.11,1067,Engineering,No
+12,20,3.77,1175,Engineering,Yes
+13,19,2.68,1453,Psychology,No
+14,21,3.87,1596,Engineering,Yes
+15,29,3.8,1336,Biology,Yes
+16,18,2.97,1403,Engineering,No
+17,20,2.42,1323,Business,No
+18,24,2.82,968,Psychology,No
+19,22,2.11,1075,Biology,No
+20,20,3.37,818,Biology,No
+21,24,2.51,838,Business,No
+22,24,3.13,998,Engineering,No
+23,28,3.45,1009,Engineering,No
+24,23,3.88,1230,Economics,Yes
+25,28,2.96,1330,Computer Science,No
+26,23,2.44,1425,Computer Science,No
+27,25,2.41,1092,Biology,No
+28,24,3.78,982,Psychology,Yes
+29,23,2.97,1162,Psychology,No
+30,25,2.17,1125,Business,No
+31,19,3.21,1485,Business,No
+32,22,2.26,1378,Business,No
+33,23,3.94,1298,Psychology,Yes
+34,29,2.03,891,Computer Science,No
+35,19,3.73,901,Economics,Yes
+36,25,2.03,1274,Engineering,No
+37,28,2.05,1254,Engineering,No
+38,28,2.71,944,Engineering,No
+39,19,3.61,1100,Economics,Yes
+40,22,3.42,1274,Economics,No
+41,29,2.43,1559,Biology,No
+42,28,2.48,1561,Business,No
+43,21,2.15,1410,Economics,No
+44,26,2.43,1109,Biology,No
+45,27,2.04,1027,Economics,No
+46,23,3.54,1174,Biology,Yes
+47,19,2.07,1487,Economics,No
+48,19,3.73,1017,Psychology,Yes
+49,20,3.65,1290,Psychology,Yes
+50,22,3.6,1595,Computer Science,Yes
+51,22,3.12,1586,Business,No
+52,18,2.11,1207,Psychology,No
+53,22,2.97,1055,Engineering,No
+54,25,3.94,1158,Engineering,Yes
+55,19,3.77,1021,Economics,Yes
+56,22,2.57,1454,Engineering,No
+57,23,3.32,834,Psychology,No
+58,24,3.52,1442,Computer Science,Yes
+59,27,3.16,1096,Economics,No
+60,26,2.74,1297,Computer Science,No
+61,29,2.79,1335,Biology,No
+62,24,3.15,1458,Computer Science,No
+63,27,2.98,903,Business,No
+64,26,2.88,1225,Engineering,No
+65,24,2.51,1009,Psychology,No
+66,24,2.38,1569,Engineering,No
+67,28,2.67,1535,Engineering,No
+68,18,3.88,1562,Biology,Yes
+69,23,3.27,1049,Computer Science,No
+70,18,3.57,1093,Biology,Yes
+71,21,2.73,947,Biology,No
+72,20,2.42,1409,Economics,No
+73,20,2.92,1324,Psychology,No
+74,21,2.58,1061,Biology,No
+75,26,2.32,1571,Computer Science,No
+76,23,3.52,1022,Computer Science,Yes
+77,22,2.41,1463,Biology,No
+78,27,3.46,862,Biology,No
+79,29,3.2,885,Biology,No
+80,29,2.26,1561,Economics,No
+81,21,2.99,1394,Biology,No
+82,18,3.12,1571,Biology,No
+83,23,2.81,1174,Psychology,No
+84,27,3.22,913,Biology,No
+85,19,3.54,1081,Biology,Yes
+86,29,2.96,830,Economics,No
+87,27,2.86,1039,Biology,No
+88,23,3.17,1252,Psychology,No
+89,22,3.93,981,Economics,Yes
+90,29,2.31,1145,Biology,No
+91,29,2.1,1169,Business,No
+92,29,2.5,830,Biology,No
+93,21,2.18,1238,Computer Science,No
+94,29,2.49,1271,Computer Science,No
+95,19,3.79,1214,Computer Science,Yes
+96,27,3.8,1468,Economics,Yes
+97,23,3.55,1041,Psychology,Yes
+98,29,3.62,1408,Psychology,Yes
+99,28,2.58,1394,Computer Science,No
+100,20,2.67,1366,Engineering,No
